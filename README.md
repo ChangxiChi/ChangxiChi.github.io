@@ -4,7 +4,7 @@
       <img src="picture/me.jpg" width="150">
     </td>
     <td>
-      <h2>Changxi Chi</h2>
+      <h2>Changxi Chi 池昌熙</h2> 
       <p>
         <b>Ph.D. Student</b> <br>
         Computer Science and Technology <br>
