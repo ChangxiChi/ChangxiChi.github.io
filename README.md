@@ -26,5 +26,9 @@ I’m **Changxi Chi**, a Ph.D. student at **Westlake University** and **Zhejiang
 
 ### 📚 Selected Publications
 [🔗 Discover the full list](https://scholar.google.com/citations?user=O25tPhcAAAAJ&hl=zh-CN)
-- __Changxi Chi__, Jun Xia, Jingbo Zhou, Jiabei Cheng, Chang Yu, Stan Z Li, *GRAPE: Heterogeneous Graph Representation Learning for Genetic Perturbation with Coding and Non-Coding Biotype*, International Joint Conference on Artificial Intelligence, 2025. [📄 paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=O25tPhcAAAAJ&citation_for_view=O25tPhcAAAAJ:9yKSN-GCB0IC)
-- Hang Shi*, __Chi Changxi__*, Peng Wan, Daoqiang Zhang, WEI SHAO, *Multi-modal Topology-embedded Graph Learning for Spatially Resolved Genes Prediction from Pathology Images with Prior Gene Similarity Information*, IEEE Conference on Computer Vision and Pattern Recognition, 2025. [📄 paper](https://openreview.net/forum?id=7WKVFdc26E&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dthecvf.com%2FCVPR%2F2025%2FConference%2FAuthors%23your-submissions))
+
+- <u>**Changxi Chi**</u>, Jun Xia, Jingbo Zhou, Jiabei Cheng, Chang Yu, Stan Z. Li, *GRAPE: Heterogeneous Graph Representation Learning for Genetic Perturbation with Coding and Non-Coding Biotype*, International Joint Conference on Artificial Intelligence (IJCAI), 2025. [📄 paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=O25tPhcAAAAJ&citation_for_view=O25tPhcAAAAJ:9yKSN-GCB0IC)
+
+- Hang Shi [†], <u>**Changxi Chi**</u> [†], Peng Wan, Daoqiang Zhang, Wei Shao, *Multi-modal Topology-embedded Graph Learning for Spatially Resolved Genes Prediction from Pathology Images with Prior Gene Similarity Information*, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025. [📄 paper](https://openreview.net/forum?id=7WKVFdc26E)
+
+[†] Equal contribution.
