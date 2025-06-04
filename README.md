@@ -7,8 +7,8 @@
       <h2>Changxi Chi</h2>
       <p>
         <b>Ph.D. Student</b> <br>
-        School of Engineering <br>
-        Westlake University & Zhejiang University <br>
+        Computer Science and Technology <br>
+        Zhejiang University & Westlake University <br>
         Advisor: <b>Stan Z. Li</b> (IEEE Fellow) <br>
         Email: chichangxi@westlake.edu.cn
       </p>
@@ -18,7 +18,7 @@
 
 ### 👋 Hi there!
 
-I’m **Changxi Chi**, a Ph.D. student at **Westlake University** and **Zhejiang University (2025-present)**, advised by **Chair Prof. Stan Z. Li** (IEEE Fellow). Before joining Westlake, I received my **B.E. degree with honors** from **Nanjing University of Aeronautics and Astronautics (2021-2025)**. My research interests lie at the intersection of **generative modeling** and **AI for Virtual Cell**.
+I’m **Changxi Chi**, a Ph.D. student at **Zhejiang University** and **Westlake University (2025-present)**, advised by **Chair Prof. Stan Z. Li** (IEEE Fellow). Before joining Westlake, I received my **B.E. degree with honors** from **Nanjing University of Aeronautics and Astronautics (2021-2025)**. My research interests lie at the intersection of **Generative Model** and **AI for Virtual Cell**.
  
 ### 📰 News&nbsp;<sup>✨</sup>
 - (2025.4) A paper is accepted in **IJCAI2025**.
