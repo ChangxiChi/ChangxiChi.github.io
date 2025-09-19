@@ -23,7 +23,7 @@ I’m **Changxi Chi (池昌熙)**, a Ph.D. student at **Zhejiang University** an
 ---
 
 <!-- Research Collaboration -->
-<span style="color: gold; text-shadow: 0 0 5px gold, 0 0 10px orange;">
+<span style="color: gold; text-shadow: 0 0 2px gold, 0 0 1px orange;">
   ✨ Research Collaboration ✨
 </span>
 I am seeking opportunities for research collaboration. My current research focuses on generative modeling for biology (AI4Science), including diffusion, flow matching, and bridge models for single-cell perturbations and cell imaging.
@@ -31,7 +31,7 @@ I am seeking opportunities for research collaboration. My current research focus
 ---
 
 <!-- Internship -->
-<span style="color: deepskyblue; text-shadow: 0 0 5px deepskyblue, 0 0 10px lightblue; font-weight: bold;">
+<span style="color: deepskyblue; text-shadow: 0 0 2px deepskyblue, 0 0 1px lightblue; font-weight: bold;">
   🚀 Internship Opportunities 🚀
 </span>
 I am also seeking **internship opportunities** in **video generation, multimodal LLMs (MLLM), and embodied AI**.
