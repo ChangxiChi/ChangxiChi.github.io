@@ -18,8 +18,27 @@
 
 ### 👋 Hi there!
 
-I’m **Changxi Chi (池昌熙)**, a Ph.D. student at **Zhejiang University** and **Westlake University (2025-present)**, advised by **Chair Prof. Stan Z. Li** (IEEE Fellow). Before joining Westlake, I received my **B.E. degree with honors** from **Nanjing University of Aeronautics and Astronautics (2021-2025)**. My research interests lie at **Generative Model** and **AI for Virtual Cell**.
- 
+I’m **Changxi Chi (池昌熙)**, a Ph.D. student at **Zhejiang University** and **Westlake University (2025-present)**, advised by **Chair Prof. Stan Z. Li** (IEEE Fellow). Before joining Westlake, I received my **B.E. degree with honors** from **Nanjing University of Aeronautics and Astronautics (2021-2025)**. My research interests lie at **Generative Model**.
+
+---
+
+<!-- Research Collaboration -->
+<span style="color: gold; text-shadow: 0 0 5px gold, 0 0 10px orange;">
+  ✨ Research Collaboration ✨
+</span>
+I am seeking opportunities for research collaboration. My current research focuses on generative modeling for biology (AI4Science), including diffusion, flow matching, and bridge models for single-cell perturbations and cell imaging.
+
+---
+
+<!-- Internship -->
+<span style="color: deepskyblue; text-shadow: 0 0 5px deepskyblue, 0 0 10px lightblue; font-weight: bold;">
+  🚀 Internship Opportunities 🚀
+</span>
+I am also seeking **internship opportunities** in **video generation, multimodal LLMs (MLLM), and embodied AI**.
+
+---
+
+If you are interested, please feel free to **contact me directly via email**.
 ### 📰 News&nbsp;<sup>✨</sup>
 - (2025.9) A paper is accepted in **NeurIPS2025**.
 - (2025.4) A paper is accepted in **IJCAI2025**.
