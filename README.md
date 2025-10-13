@@ -47,6 +47,8 @@ If you are interested, please feel free to **contact me directly via email**.
 ### 📚 Selected Publications
 [🔗 Discover the full list](https://scholar.google.com/citations?user=O25tPhcAAAAJ&hl=zh-CN)
 
+- Jiabei Cheng, <u>Changxi Chi</u>, Jingbo Zhou, Hongyi Xin, Jun Xia, *PRESCRIBE: Predicting Single-Cell Responses with Bayesian Estimation*, Conference on Neural Information Processing Systems (NeurIPS), 2025. [📄 paper](https://arxiv.org/abs/2510.07964)
+
 - <u>Changxi Chi</u>, Jun Xia, Jingbo Zhou, Jiabei Cheng, Chang Yu, Stan Z. Li, *GRAPE: Heterogeneous Graph Representation Learning for Genetic Perturbation with Coding and Non-Coding Biotype*, International Joint Conference on Artificial Intelligence (IJCAI), 2025. [📄 paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=O25tPhcAAAAJ&citation_for_view=O25tPhcAAAAJ:9yKSN-GCB0IC)
 
 - Hang Shi [†], <u>Changxi Chi</u> [†], Peng Wan, Daoqiang Zhang, Wei Shao, *Multi-modal Topology-embedded Graph Learning for Spatially Resolved Genes Prediction from Pathology Images with Prior Gene Similarity Information*, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025. [📄 paper](https://openreview.net/forum?id=7WKVFdc26E)
