@@ -6,9 +6,8 @@
     <td>
       <h2>Changxi Chi</h2> 
       <p>
-        <b>Ph.D. Student</b> <br>
         Computer Science and Technology <br>
-        Zhejiang University & Westlake University <br>
+        Westlake University <br>
         Email: chichangxi@westlake.edu.cn
       </p>
     </td>
@@ -17,7 +16,7 @@
 
 ### 👋 Hi there!
 
-I’m **Changxi Chi (池昌熙)**, a Ph.D. student at **Zhejiang University** and **Westlake University (2025-present)**. Before joining Westlake, I received my **B.E. degree with honors** from **Nanjing University of Aeronautics and Astronautics (2021-2025)**. My research interests lie at **Generative Model**.
+I’m **Changxi Chi (池昌熙)**. Before joining Westlake, I received my **B.E. degree with honors** from **Nanjing University of Aeronautics and Astronautics (2021-2025)**. My research interests lie at **Generative Model**.
 
 ---
 
