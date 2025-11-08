@@ -38,8 +38,9 @@ I am also seeking **internship opportunities** in **video generation, multimodal
 
 If you are interested, please feel free to **contact me directly via email**.
 ### 📰 News&nbsp;<sup>✨</sup>
+- (2025.11) A first-author paper is accepted in **AAAI2026**.
 - (2025.9) A paper is accepted in **NeurIPS2025**.
-- (2025.4) A paper is accepted in **IJCAI2025**.
+- (2025.4) A first-author paper is accepted in **IJCAI2025**.
 - (2025.2) A paper is accepted in **CVPR2025**.
 
 ### 📚 Selected Publications
