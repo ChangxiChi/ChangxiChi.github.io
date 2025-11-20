@@ -7,7 +7,7 @@
       <h2>Changxi Chi</h2> 
       <p>
         Computer Science and Technology <br>
-        Westlake University <br>
+        Zhejiang University <br>
         Email: chichangxi@westlake.edu.cn
       </p>
     </td>
