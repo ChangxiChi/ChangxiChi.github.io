@@ -47,6 +47,7 @@ If you are interested, please feel free to **contact me directly via email**.
 [🔗 Discover the full list](https://scholar.google.com/citations?user=O25tPhcAAAAJ&hl=zh-CN)
 
 - <u>Changxi Chi</u>, Yufei Huang, Jun Xia, Jiangbin Zheng, Yunfan Liu, Zelin Zang, Stan Z. Li, *Departures: Distributional Transport for Single-Cell Perturbation Prediction with Neural Schrödinger Bridges*, International Joint Conference on Artificial Intelligence (AAAI), 2025. [📄 paper](https://arxiv.org/abs/2511.13124)
+
 - Jiabei Cheng, <u>Changxi Chi</u>, Jingbo Zhou, Hongyi Xin, Jun Xia, *PRESCRIBE: Predicting Single-Cell Responses with Bayesian Estimation*, Conference on Neural Information Processing Systems (NeurIPS), 2025. [📄 paper](https://arxiv.org/abs/2510.07964)
 
 - <u>Changxi Chi</u>, Jun Xia, Jingbo Zhou, Jiabei Cheng, Chang Yu, Stan Z. Li, *GRAPE: Heterogeneous Graph Representation Learning for Genetic Perturbation with Coding and Non-Coding Biotype*, International Joint Conference on Artificial Intelligence (IJCAI), 2025. [📄 paper](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=O25tPhcAAAAJ&citation_for_view=O25tPhcAAAAJ:9yKSN-GCB0IC)
