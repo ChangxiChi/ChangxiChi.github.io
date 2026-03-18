@@ -47,6 +47,7 @@ If you are interested, please feel free to **contact me directly via email**.
 
 ### 📚 Selected Publications
 [🔗 Discover the full list](https://scholar.google.com/citations?user=O25tPhcAAAAJ&hl=zh-CN)
+- <u>Changxi Chi</u>, Jun Xia, Yufei Huang, Zhuoli Ouyang et al., *Doloris: Dual Conditional Diffusion Implicit Bridges with Sparsity Masking Strategy for Unpaired Single-Cell Perturbation Estimation*, International Conference on Learning Representations (ICLR), 2026. [📄 paper](https://arxiv.org/abs/2511.13124)
 
 - <u>Changxi Chi</u>, Yufei Huang, Jun Xia, Jiangbin Zheng, Yunfan Liu, Zelin Zang, Stan Z. Li, *Departures: Distributional Transport for Single-Cell Perturbation Prediction with Neural Schrödinger Bridges*, International Joint Conference on Artificial Intelligence (AAAI), 2026. [📄 paper](https://arxiv.org/abs/2511.13124)
 
