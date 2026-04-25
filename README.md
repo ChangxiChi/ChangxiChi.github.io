@@ -16,7 +16,7 @@
 
 ### 👋 Hi there!
 
-I’m **Changxi Chi (池昌熙)**. Before joining Westlake, I received my **B.E. degree with honors** from **Nanjing University of Aeronautics and Astronautics**. My research interests lie at **Generative Model**.
+I’m **Changxi Chi (池昌熙)**. Before joining Zhejiang University, I received my **B.E. degree with honors** from **Nanjing University of Aeronautics and Astronautics**. My research interests lie at **Generative Model**.
 
 ---
 
