@@ -38,6 +38,7 @@ I am also seeking **internship opportunities** in **video generation, multimodal
 
 If you are interested, please feel free to **contact me directly via email**.
 ### 📰 News&nbsp;<sup>✨</sup>
+- (2026.5) One paper is accepted in **ICML2026**.
 - (2026.2) One paper is accepted in **CVPR2026**.
 - (2026.1) Three paper (**one first-author**) is accepted in **ICLR2026**.
 - (2025.11) **One first-author** paper is accepted in **AAAI2026**.
