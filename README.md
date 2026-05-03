@@ -7,8 +7,8 @@
       <h2>Changxi Chi</h2> 
       <p>
         Computer Science and Technology <br>
-        Zhejiang University & Westlake University <br>
-        Email: chichangxi@westlake.edu.cn
+        Zhejiang University <br>
+        Email: 052110820@nuaa.edu.cn
       </p>
     </td>
   </tr>
