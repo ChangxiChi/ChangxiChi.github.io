@@ -38,13 +38,13 @@ I am also seeking **internship opportunities** in **video generation, multimodal
 
 If you are interested, please feel free to **contact me directly via email**.
 ### 📰 News&nbsp;<sup>✨</sup>
-- (2026.5) One paper is accepted in **ICML2026**.
-- (2026.2) One paper is accepted in **CVPR2026**.
-- (2026.1) Three paper (**one first-author**) is accepted in **ICLR2026**.
-- (2025.11) **One first-author** paper is accepted in **AAAI2026**.
-- (2025.9) One paper is accepted in **NeurIPS2025**.
-- (2025.4) **One first-author** paper is accepted in **IJCAI2025**.
-- (2025.2) One paper is accepted in **CVPR2025**.
+- (2026.5) Two paper (one **Oral**) were accepted in **KDD AI4S**.
+- (2026.2) One paper was accepted in **CVPR2026**.
+- (2026.1) Three paper (**one first-author**) were accepted in **ICLR2026**.
+- (2025.11) **One first-author** paper was accepted in **AAAI2026**.
+- (2025.9) One paper was accepted in **NeurIPS2025**.
+- (2025.4) **One first-author** paper was accepted in **IJCAI2025**.
+- (2025.2) One paper was accepted in **CVPR2025**.
 
 ### 📚 Selected Publications
 [🔗 Discover the full list](https://scholar.google.com/citations?user=O25tPhcAAAAJ&hl=zh-CN)
